@@ -11,7 +11,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="50px" src="./icons/skills/react.svg">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="80px" src="./icons/skills/redux.svg">
+	<img width="50px" src="./icons/skills/redux.svg">
 </div>
 <br />
 
