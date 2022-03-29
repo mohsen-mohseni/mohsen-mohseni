@@ -42,12 +42,12 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://github.com/mohsnMohsni">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohsnMohsni&show_icons=true&theme=codeSTACKr&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsnMohsni&theme=codeSTACKr&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsnMohsni&theme=dark&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=codeSTACKr&bg_color=282828&hide_border=true&line=FEE300&point=FE652F)](https://github.com/mohsnMohsni)
+[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=dark&bg_color=282828&hide_border=true&line=FEE300&point=FE652F)](https://github.com/mohsnMohsni)
 
 ---
 
