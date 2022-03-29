@@ -41,13 +41,13 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://github.com/mohsnMohsni">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohsnMohsni&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsnMohsni&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mohsnMohsni&show_icons=true&theme=codeSTACKr&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsnMohsni&theme=codeSTACKr&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/mohsnMohsni)
+[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=codeSTACKr&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/mohsnMohsni)
 
 ---
 
