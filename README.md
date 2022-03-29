@@ -47,7 +47,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=codeSTACKr&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/mohsnMohsni)
+[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=codeSTACKr&bg_color=282828&hide_border=true&line=FEE300&point=FE652F)](https://github.com/mohsnMohsni)
 
 ---
 
