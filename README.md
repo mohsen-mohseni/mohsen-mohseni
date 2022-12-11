@@ -6,8 +6,8 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-DOCKER-2986f0?style=for-the-badge&logo=docker&logoColor=2986f0&labelColor=282828">
+  <img src="https://img.shields.io/badge/-LINUX-c58545?style=for-the-badge&logo=linux&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-django-0d7c52?style=for-the-badge&logo=django&logoColor=0d7c52&labelColor=282828">
 </div>
@@ -17,10 +17,12 @@
 class MohsenMohseni():
 
   def __init__(self):
-    self.name = "Mohsen Mohseni";
-    self.username = "s.mohsenmohseni";
-    self.location = "Tehran, Iran";
-    self.twitter = "@mohsn_mohsni";
+    self.name = "Mohsen Mohseni"
+    self.username = "mohsnMohsni"
+    self.location = "Tehran, Iran"
+    self.twitter = "@mohsn_mohsni"
+    self.linked_in = "@mohsen-mohseni"
+    self.web_page = 'mohsenimohsen.ir'
 
   def __str__(self):
     return self.name
