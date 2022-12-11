@@ -31,11 +31,11 @@ if __name__ == '__main__':
     me = MohsenMohseni()
 ```
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/6m68tuzarlrg0b93r67psd4ra">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div>
+</div> -->
 
 
 ## My Statistics
@@ -49,8 +49,8 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=gotham&bg_color=282828&hide_border=true&line=57BDDA&point=2D4854)](https://github.com/mohsnMohsni)
-
+<!-- [![Mohsen Mohseni' Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohsnMohsni&custom_title=Mohsen%20Mohseni's%20Contribution%20Graph&theme=gotham&bg_color=282828&hide_border=true&line=57BDDA&point=2D4854)](https://github.com/mohsnMohsni)
+ -->
 ---
 
 Credit: [mohsenmohseni](https://github.com/mohsnMohsni)
