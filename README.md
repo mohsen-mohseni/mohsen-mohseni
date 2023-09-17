@@ -13,13 +13,6 @@
 </div>
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6m68tuzarlrg0b93r67psd4ra">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-
 ## My Statistics
 
 <br/>
