@@ -26,6 +26,6 @@
 
 ---
 
-Credit: [mohsenmohseni](https://github.com/mohsnMohsni)
+Credit: [mohsenmohseni](https://github.com/smohsenmohseni)
 
 17, may
